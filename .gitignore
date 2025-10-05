@@ -1,0 +1,12 @@
+*.pyc
+*.tar.gz
+
+wandb/
+__pycache__/
+checkpoints/
+data/
+env/
+
+*.egg-info/
+.vscode/
+.DS_Store
